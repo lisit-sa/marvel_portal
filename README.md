@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# It is a project that was made using API of Marvel https://developer.marvel.com/ and React. 
+# You can see how does it works at http://marvel.kriskarvanov.com/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
